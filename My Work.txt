@@ -1,0 +1,21 @@
+My associate id:
+845032
+team members:
+844989,845165,845143
+Team lead:
+845165
+My Role in team:
+1. To develop homepage and contact us page
+2. Reactive Forms Validations
+3. Bootstrap theme and color palatte for Project
+My development files:
+1. index page
+2. contactus page
+3. Validations
+I was strong in:
+1.HTML
+2.bootstrap
+3.Type Script
+4. Validations
+I was weak in:
+1.javascript
